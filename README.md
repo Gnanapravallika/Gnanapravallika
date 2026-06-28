@@ -3,7 +3,9 @@ Hi there, I'm an AI Engineer specializing in Computer Vision & MLOps 👋
 B.Tech in Computer Science and M.Tech in Communication & Signal Processing. I specialize in bridging the gap between mathematical signal analysis (images, audio, sensors) and production-grade backend software.
 
 🔭 Currently Building: A production-grade clinical AI platform featuring custom PyTorch attention models and containerized FastAPI/Docker deployments.
+
 🎓 Academic Focus: Applied Deep Learning, Explainable AI (XAI), and Digital Signal Processing (DSP).
+
 📧 Contact: gnanapravallikaperugu126@gmail.com | https://www.linkedin.com/in/gnanapravallikap/
 🛠️ Technical Skill Stack
 🚀 Core Engineering & MLOps
