@@ -9,7 +9,9 @@ B.Tech in Computer Science and M.Tech in Communication & Signal Processing. I sp
 📧 Contact: gnanapravallikaperugu126@gmail.com | https://www.linkedin.com/in/gnanapravallikap/
 
 🛠️ Technical Skill Stack
+
 🚀 Core Engineering & MLOps
+
 Languages: Python (Advanced), SQL, Git
 
 APIs & Web Servicing: FastAPI (Async, Pydantic), REST APIs
