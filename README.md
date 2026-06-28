@@ -8,42 +8,35 @@ B.Tech in Computer Science and M.Tech in Communication & Signal Processing. I sp
 
 📧 Contact: gnanapravallikaperugu126@gmail.com | https://www.linkedin.com/in/gnanapravallikap/
 
-🛠️ Technical Skill Stack
+## 🛠️ Technical Skill Stack
 
-🚀 Core Engineering & MLOps
+### 🚀 Core Engineering & MLOps
+* **Languages**: Python (Advanced), SQL, Git
+* **APIs & Web Servicing**: FastAPI (Async, Pydantic), REST APIs
+* **Containerization & Infrastructure**: Docker, docker-compose
+* **CI/CD Automation**: GitHub Actions (Linting, Testing, Building)
+* **Observability & Monitoring**: Prometheus, Grafana, MLflow (Experiment Tracking)
+* **Testing**: Unit & Integration testing (`pytest`)
 
-Languages: Python (Advanced), SQL, Git
+### 🧠 Deep Learning & Computer Vision
+* **Deep Learning Frameworks**: PyTorch
+* **Digital Image Processing**: OpenCV, NumPy
+* **Computer Vision Architectures**: Deep CNNs (ResNet), Custom Attention Gating (Channel & Spatial Attention)
+* **Explainable AI (XAI)**: Saliency mapping (LayerCAM, Grad-CAM), Quantitative Faithfulness validation (Deletion Test & AOPC)
 
-APIs & Web Servicing: FastAPI (Async, Pydantic), REST APIs
+### 📊 Applied Mathematics
+* **Digital Signal Processing (DSP)**: Convolutions, kernels, spatial frequency, and edge-preserving filtering (Bilateral Filters)
+* **Core Math**: Linear Algebra (vectors, matrices, transposition, dot product), Probability & Statistics, Matrix Calculus
 
-Containerization & Infrastructure: Docker, docker-compose
+---
 
-CI/CD Automation: GitHub Actions (Linting, Testing, Building)
+## 📁 Key Portfolio Projects
 
-Observability & Monitoring: Prometheus, Grafana, MLflow (Experiment Tracking)
+### 1. [Production-Grade AI Pipeline: Anomaly Detection API](https://github.com/Gnanapravallika/industrial-anomaly-detection)
+* **Description**: A containerized computer vision API built for automated visual inspection and real-time anomaly detection.
+* **Tech Stack**: PyTorch, OpenCV, FastAPI, Docker, GitHub Actions, Prometheus, Grafana.
+* **Key Wins**: Implemented non-linear Bilateral denoising, added Channel-Spatial Attention gates, and optimized the production Docker container.
 
-Testing: Unit & Integration testing (pytest)
-
-🧠 Deep Learning & Computer Vision
-Deep Learning Frameworks: PyTorch
-
-Digital Image Processing: OpenCV, NumPy
-
-Computer Vision Architectures: Deep CNNs (ResNet), Custom Attention Gating (Channel & Spatial Attention)
-
-Explainable AI (XAI): Saliency mapping (LayerCAM, Grad-CAM), Quantitative Faithfulness validation (Deletion Test & AOPC)
-
-📊 Applied Mathematics
-Digital Signal Processing (DSP): Convolutions, kernels, spatial frequency, and edge-preserving filtering (Bilateral Filters)
-
-Core Math: Linear Algebra (vectors, matrices, transposition, dot product), Probability & Statistics, Matrix Calculus
-
-📁 Key Portfolio Projects
-1. Production-Grade AI Pipeline: Anomaly Detection API
-Description: A containerized computer vision API built for automated visual inspection and real-time anomaly detection.
-Tech Stack: PyTorch, OpenCV, FastAPI, Docker, GitHub Actions, Prometheus, Grafana.
-Key Wins: Implemented non-linear Bilateral denoising, added Channel-Spatial Attention gates (+5.20% accuracy), and reduced the production Docker container size by 80% (840MB).
-
-3. DocuMind: Clinical Guidelines RAG Portal
-Description: A secure document intelligence portal that ingests PDFs, indexes text semantically, and queries grounded LLMs to generate reports without leaking sensitive patient data (PII).
-Tech Stack: Python, ChromaDB (Vector DB), Gemini API, Microsoft Presidio (PII masking), FastAPI, Docker.
+### 2. [DocuMind: Clinical Guidelines RAG Portal](https://github.com/Gnanapravallika/documind-rag)
+* **Description**: A secure document intelligence portal that ingests PDFs, indexes text semantically, and queries grounded LLMs to generate reports without leaking sensitive patient data (PII).
+* **Tech Stack**: Python, ChromaDB, Gemini API, Microsoft Presidio, FastAPI, Docker.
